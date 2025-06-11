@@ -15,7 +15,7 @@
 ## 📋 Prerequisites
 
 - Node.js 18+ and npm
-- [LiteRT-LM binary](https://github.com/google-ai-edge/litert) (`litert_lm_main`)
+- [LiteRT-LM binary](https://github.com/google-ai-edge/LiteRT-LM) (`litert_lm_main`)
 - A compatible `.litertlm` model file (e.g., Gemma models)
 - Basic familiarity with command line
 
@@ -243,7 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Google AI Edge team for [LiteRT-LM](https://github.com/google-ai-edge/litert)
+- Google AI Edge team for [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
 - OpenAI for the API specification
 - The open-source community for inspiration and support
 
