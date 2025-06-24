@@ -24,7 +24,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/litert-lm-api-server.git
+git clone https://github.com/imertz/litert-lm-api-server.git
 cd litert-lm-api-server
 ```
 
